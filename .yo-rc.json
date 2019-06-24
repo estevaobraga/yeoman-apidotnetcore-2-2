@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "estevao.braga",
+      "authorEmail": "estevo.braga@gmail.com",
+      "authorUrl": "https://github.com/estevaobraga"
+    }
+  }
+}
